@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vjezba_DinamickaAlokacija-2", "Vjezba_DinamickaAlokacija-2.vcxproj", "{924C213D-06CE-4B1E-B262-597D03D56C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924C213D-06CE-4B1E-B262-597D03D56C6E}.Debug|x64.ActiveCfg = Debug|x64
+		{924C213D-06CE-4B1E-B262-597D03D56C6E}.Debug|x64.Build.0 = Debug|x64
+		{924C213D-06CE-4B1E-B262-597D03D56C6E}.Debug|x86.ActiveCfg = Debug|Win32
+		{924C213D-06CE-4B1E-B262-597D03D56C6E}.Debug|x86.Build.0 = Debug|Win32
+		{924C213D-06CE-4B1E-B262-597D03D56C6E}.Release|x64.ActiveCfg = Release|x64
+		{924C213D-06CE-4B1E-B262-597D03D56C6E}.Release|x64.Build.0 = Release|x64
+		{924C213D-06CE-4B1E-B262-597D03D56C6E}.Release|x86.ActiveCfg = Release|Win32
+		{924C213D-06CE-4B1E-B262-597D03D56C6E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2715BF-8626-4DF2-8054-D3529944F4EF}
+	EndGlobalSection
+EndGlobal
